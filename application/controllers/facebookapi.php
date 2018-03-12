@@ -1,19 +1,3 @@
-# Codeigniter Facebook Graph SDK v5.6.2 Library, based on Facebook SDK for PHP (v5)
-
-
-## Installation
-
-1. put the files into the correct folder (e.g. controller, library, etc)
-
-2. modify the "application\config\facebook.php", set token for Facebook Graph SDK 
-
-3. modify the "application\libraries\Facebookapilib.php", to support operations that you need
-
-4. an example controller has been provided, contains get & post API call
-
-
-## Example Controller
-
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 /**
 * Example controller 
